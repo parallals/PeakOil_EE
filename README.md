@@ -1,5 +1,5 @@
 
-# Explorable Explanation para la teoría de Peak Oil
+# Explorable Explanation para la teoría de Peak Oil (Proyecto Universitario)
 
 Estaes una explicación interactiva sobre la teoría de Hubbert *"Peak Oil"*, que consiste en el modelo en forma de campana que toma la produccíon del petróleo a lo largo del tiempo.
 
